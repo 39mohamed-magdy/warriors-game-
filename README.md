@@ -1,0 +1,2 @@
+# warriors-game-
+Ever wanted to see your favorite Warriors battle each other? This is the game for you! Warriors for the ultimate battle to the death.  Game Objective: Pick Warriors and Battle to the Death!  Use energy for movement and perform special abilities unique to each character. Starting the Game: Each player rolls a die; highest die starts the game.  Winning the Game: Player with the last Warrior standing is the winner!
